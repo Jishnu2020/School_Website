@@ -58,3 +58,9 @@ float: right;
 {
 color: #ff7000;
 }
+
+#footer
+{
+height: 20px;
+background-color: white;
+}
